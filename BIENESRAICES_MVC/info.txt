@@ -1,0 +1,4 @@
+Primero se instala la versión LTS de nodejs, se crea el package.json y se instala express
+Una vez instalado express, se crea automáticamente el package-lock.js que es el archivo que maneja
+todas las dependencias de express.
+
